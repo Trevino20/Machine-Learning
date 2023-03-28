@@ -5,3 +5,8 @@
 	Pandas read_json documentation: https://pandas.pydata.org/docs/reference/api/pandas.read_json.html 
 	
 	Pandas read_sql_query documentation: https://pandas.pydata.org/docs/reference/api/pandas.read_sql_query.html#pandas.read_sql_query
+	
+	Sql file:
+	step 1: Started Xampp Server
+	Step 2: import Sql file
+	Step 3: Run commands
